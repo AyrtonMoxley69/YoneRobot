@@ -1,5 +1,5 @@
 {
-      "name": "YoneRobot",
+      "name": "Akeno",
       "description": "Telegram group management bot.",
       "keywords": [
          "telegram",
@@ -8,7 +8,7 @@
          "manager",
          "yone"
       ],   
-   "repository": "https://t.me/itsMeLegend",
+   "repository": "https://github.com/AyrtonMoxley69/YoneRobot",
    "addons": [
       {
          "options": {
